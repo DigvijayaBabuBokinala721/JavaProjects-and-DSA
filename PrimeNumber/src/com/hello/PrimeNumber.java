@@ -26,5 +26,6 @@ public class PrimeNumber {
 			System.out.println(isPrime(sc.nextInt())?"Prime":"Not Prime");
 		}
 	}
-
+ 
 }
+
